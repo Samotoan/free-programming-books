@@ -1,5 +1,5 @@
 # Codice di Comportamento del Collaboratore
-
+#lan1
 In quanto collaboratori e responsabili di questo progetto, nell'interesse di incoraggiare una comunità aperta ed accogliente, noi ci impegnamo a rispettare tutte le persone che contribuiscono attraverso la segnalazione di problemi, la richiesta di funzionalità, l'aggiornamento della documentazione, la creazione di pull request o patch ed altre attività.
 
 Noi ci impegnamo a rendere la partecipazione a questo progetto una esperienza libera da molestie per tutti, indipendentemente dal livello di esperienza, sesso, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto fisico, corporatura, razza, etnia, età, religione e nazionalità.
